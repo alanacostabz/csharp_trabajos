@@ -1,0 +1,11 @@
+c:\users\bryan\source\repos\constantes\constantes\bin\Debug\netcoreapp2.0\constantes.deps.json
+c:\users\bryan\source\repos\constantes\constantes\bin\Debug\netcoreapp2.0\constantes.runtimeconfig.json
+c:\users\bryan\source\repos\constantes\constantes\bin\Debug\netcoreapp2.0\constantes.runtimeconfig.dev.json
+c:\users\bryan\source\repos\constantes\constantes\bin\Debug\netcoreapp2.0\constantes.dll
+c:\users\bryan\source\repos\constantes\constantes\bin\Debug\netcoreapp2.0\constantes.pdb
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.csprojAssemblyReference.cache
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.csproj.CoreCompileInputs.cache
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.AssemblyInfoInputs.cache
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.AssemblyInfo.cs
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.dll
+c:\users\bryan\source\repos\constantes\constantes\obj\Debug\netcoreapp2.0\constantes.pdb

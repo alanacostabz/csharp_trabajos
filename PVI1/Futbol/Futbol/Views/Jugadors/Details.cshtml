@@ -1,0 +1,58 @@
+﻿@model Futbol.Models.Jugador
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Jugador</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Equipo.nombreEquipo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Equipo.nombreEquipo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.nombreJugador)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.nombreJugador)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.edadJugador)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.edadJugador)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.paisOrigen)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.paisOrigen)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.jugadorID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

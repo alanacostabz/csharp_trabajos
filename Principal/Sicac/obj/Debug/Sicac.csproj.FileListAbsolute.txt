@@ -1,0 +1,27 @@
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\bin\Debug\Sicac.exe.config
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\bin\Debug\Sicac.exe
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\bin\Debug\Sicac.pdb
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.csprojResolveAssemblyReference.cache
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.Properties.Resources.resources
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.csproj.GenerateResource.Cache
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.exe
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.pdb
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.FormPrinicipal.resources
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.RegistroAlumnos.resources
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.RegistroMaestro.resources
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.Calificaciones.resources
+c:\users\gustavo\documents\visual studio 2015\Projects\Principal\Sicac\obj\Debug\Sicac.Materias.resources
+C:\Users\bryan\source\repos\Principal\Sicac\bin\Debug\Sicac.exe.config
+C:\Users\bryan\source\repos\Principal\Sicac\bin\Debug\Sicac.exe
+C:\Users\bryan\source\repos\Principal\Sicac\bin\Debug\Sicac.pdb
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.Calificaciones.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.Materias.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.FormPrinicipal.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.Properties.Resources.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.RegistroAlumnos.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.RegistroMaestro.resources
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.exe
+C:\Users\bryan\source\repos\Principal\Sicac\obj\Debug\Sicac.pdb

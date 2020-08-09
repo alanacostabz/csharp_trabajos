@@ -1,0 +1,28 @@
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe.config
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.pdb
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csprojResolveAssemblyReference.cache
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.VentanaPrincipal.resources
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.Properties.Resources.resources
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csproj.GenerateResource.Cache
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.exe
+c:\users\maestros\documents\visual studio 2015\Projects\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.pdb
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe.config
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.exe
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.pdb
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.pdb
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csprojResolveAssemblyReference.cache
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.VentanaPrincipal.resources
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.Properties.Resources.resources
+D:\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csproj.GenerateResource.Cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe.config
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\bin\Debug\TaqueriaMurillo.pdb
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.VentanaPrincipal.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.Properties.Resources.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csproj.GenerateResource.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\TaqueriaMurillo\TaqueriaMurillo\obj\Debug\TaqueriaMurillo.pdb

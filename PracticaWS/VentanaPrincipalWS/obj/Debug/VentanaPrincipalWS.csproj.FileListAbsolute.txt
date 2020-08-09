@@ -1,0 +1,16 @@
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\VentanaPrincipalWS.exe.config
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\VentanaPrincipalWS.exe
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\VentanaPrincipalWS.pdb
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\PracticaWS.dll
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\PracticaWS.pdb
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\bin\Debug\PracticaWS.dll.config
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.Form1.resources
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.Properties.Resources.resources
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.VentanaXML.resources
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.csproj.CopyComplete
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.exe
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.pdb
+C:\Users\bryan\source\repos\PracticaWS\VentanaPrincipalWS\obj\Debug\VentanaPrincipalWS.VentanaTXT.resources

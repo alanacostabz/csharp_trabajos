@@ -1,0 +1,5 @@
+D:\PVI\MiPrimerDLL\MiPrimerDLL\bin\Debug\MiPrimerDLL.dll
+D:\PVI\MiPrimerDLL\MiPrimerDLL\bin\Debug\MiPrimerDLL.pdb
+D:\PVI\MiPrimerDLL\MiPrimerDLL\obj\Debug\MiPrimerDLL.csprojResolveAssemblyReference.cache
+D:\PVI\MiPrimerDLL\MiPrimerDLL\obj\Debug\MiPrimerDLL.dll
+D:\PVI\MiPrimerDLL\MiPrimerDLL\obj\Debug\MiPrimerDLL.pdb

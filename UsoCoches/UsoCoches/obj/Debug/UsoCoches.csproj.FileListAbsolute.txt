@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\bin\Debug\UsoCoches.exe.config
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\bin\Debug\UsoCoches.exe
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\bin\Debug\UsoCoches.pdb
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\obj\Debug\UsoCoches.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\obj\Debug\UsoCoches.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\obj\Debug\UsoCoches.exe
+C:\Users\bryan\source\repos\UsoCoches\UsoCoches\obj\Debug\UsoCoches.pdb

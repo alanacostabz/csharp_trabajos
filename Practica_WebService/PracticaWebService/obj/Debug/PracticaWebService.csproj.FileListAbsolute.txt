@@ -1,0 +1,12 @@
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.Form1.resources
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.Properties.Resources.resources
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.ventanaTXT.resources
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.ventanaXML.resources
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\bin\Debug\PracticaWebService.exe.config
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\bin\Debug\PracticaWebService.exe
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\bin\Debug\PracticaWebService.pdb
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.exe
+C:\Users\bryan\source\repos\Practica_WebService\PracticaWebService\obj\Debug\PracticaWebService.pdb

@@ -1,0 +1,10 @@
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\bin\Debug\netcoreapp2.0\Practica_Metodos2.deps.json
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\bin\Debug\netcoreapp2.0\Practica_Metodos2.runtimeconfig.json
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\bin\Debug\netcoreapp2.0\Practica_Metodos2.runtimeconfig.dev.json
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\bin\Debug\netcoreapp2.0\Practica_Metodos2.dll
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\bin\Debug\netcoreapp2.0\Practica_Metodos2.pdb
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\obj\Debug\netcoreapp2.0\Practica_Metodos2.csproj.CoreCompileInputs.cache
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\obj\Debug\netcoreapp2.0\Practica_Metodos2.AssemblyInfoInputs.cache
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\obj\Debug\netcoreapp2.0\Practica_Metodos2.AssemblyInfo.cs
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\obj\Debug\netcoreapp2.0\Practica_Metodos2.dll
+c:\users\bryan\source\repos\Practica_Metodos2\Practica_Metodos2\obj\Debug\netcoreapp2.0\Practica_Metodos2.pdb

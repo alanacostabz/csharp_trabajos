@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.exe.config
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.exe
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.pdb
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.exe
+C:\Users\bryan\source\repos\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.pdb

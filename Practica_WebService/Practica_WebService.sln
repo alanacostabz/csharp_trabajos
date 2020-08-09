@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_WebService", "Practica_WebService\Practica_WebService.csproj", "{46CF2071-FC75-4848-BC95-7406AA46B841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaWebService", "PracticaWebService\PracticaWebService.csproj", "{BE893205-2EFB-4E05-AD51-69DAC39E22E9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{46CF2071-FC75-4848-BC95-7406AA46B841} = {46CF2071-FC75-4848-BC95-7406AA46B841}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CF2071-FC75-4848-BC95-7406AA46B841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CF2071-FC75-4848-BC95-7406AA46B841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CF2071-FC75-4848-BC95-7406AA46B841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CF2071-FC75-4848-BC95-7406AA46B841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE893205-2EFB-4E05-AD51-69DAC39E22E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE893205-2EFB-4E05-AD51-69DAC39E22E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE893205-2EFB-4E05-AD51-69DAC39E22E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE893205-2EFB-4E05-AD51-69DAC39E22E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A674140C-2AAD-4BDC-B7B7-717C687C10F9}
+	EndGlobalSection
+EndGlobal

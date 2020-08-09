@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\bin\Debug\UsoChecked.exe.config
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\bin\Debug\UsoChecked.exe
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\bin\Debug\UsoChecked.pdb
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\obj\Debug\UsoChecked.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\obj\Debug\UsoChecked.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\obj\Debug\UsoChecked.exe
+C:\Users\bryan\source\repos\UsoChecked\UsoChecked\obj\Debug\UsoChecked.pdb

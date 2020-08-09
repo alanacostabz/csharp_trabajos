@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="LeeXML">
+        <s:complexType />
+      </s:element>
+      <s:element name="LeeXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeeXMLResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="LeeXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:LeeXML" />
+  </wsdl:message>
+  <wsdl:message name="LeeXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:LeeXMLResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSXMLSoap">
+    <wsdl:operation name="LeeXML">
+      <wsdl:input message="tns:LeeXMLSoapIn" />
+      <wsdl:output message="tns:LeeXMLSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSXMLSoap" type="tns:WSXMLSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LeeXML">
+      <soap:operation soapAction="http://tempuri.org/LeeXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSXMLSoap12" type="tns:WSXMLSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LeeXML">
+      <soap12:operation soapAction="http://tempuri.org/LeeXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSXML">
+    <wsdl:port name="WSXMLSoap" binding="tns:WSXMLSoap">
+      <soap:address location="http://localhost/MIWS2/WSXML.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSXMLSoap12" binding="tns:WSXMLSoap12">
+      <soap12:address location="http://localhost/MIWS2/WSXML.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

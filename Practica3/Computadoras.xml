@@ -1,0 +1,62 @@
+<CATALOG>
+<Computadora>
+<Marca>HP</Marca>
+<Tipo>PC</Tipo>
+<Modelo>BasicHP</Modelo>
+<Precio>588.90</Precio>
+</Computadora>
+<Computadora>
+<Marca>HP</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>ENVY Basic</Modelo>
+<Precio>999.90</Precio>
+</Computadora>
+<Computadora>
+<Marca>HP</Marca>
+<Tipo>PC</Tipo>
+<Modelo>AdvancedHP Ultra</Modelo>
+<Precio>790.90</Precio>
+</Computadora>
+<Computadora>
+<Marca>HP</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>ENVY</Modelo>
+<Precio>1074.20</Precio>
+</Computadora>
+<Computadora>
+<Marca>Toshiba</Marca>
+<Tipo>PC</Tipo>
+<Modelo>Tosh100</Modelo>
+<Precio>515.90</Precio>
+</Computadora>
+<Computadora>
+<Marca>Toshiba</Marca>
+<Tipo>PC</Tipo>
+<Modelo>Tosh200</Modelo>
+<Precio>673.10</Precio>
+</Computadora>
+<Computadora>
+<Marca>Toshiba</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>Tosh300</Modelo>
+<Precio>949.90</Precio>
+</Computadora>
+<Computadora>
+<Marca>DELL</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>Inspiron 3000</Modelo>
+<Precio>588.50</Precio>
+</Computadora>
+<Computadora>
+<Marca>DELL</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>Inspiron 5000</Modelo>
+<Precio>799.80</Precio>
+</Computadora>
+<Computadora>
+<Marca>DELL</Marca>
+<Tipo>Laptop</Tipo>
+<Modelo>Inspiron 7000</Modelo>
+<Precio>949.70</Precio>
+</Computadora>
+</CATALOG>

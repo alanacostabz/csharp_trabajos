@@ -1,0 +1,9 @@
+D:\PVI\VentanaPrincipal\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+D:\PVI\VentanaPrincipal\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+D:\PVI\VentanaPrincipal\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+D:\PVI\VentanaPrincipal\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb

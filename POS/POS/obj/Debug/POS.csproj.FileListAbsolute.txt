@@ -1,0 +1,10 @@
+D:\PVI\POS\POS\bin\Debug\POS.exe.config
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\bin\Debug\POS.exe.config
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\bin\Debug\POS.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\bin\Debug\POS.pdb
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\POS\POS\obj\Debug\POS.pdb

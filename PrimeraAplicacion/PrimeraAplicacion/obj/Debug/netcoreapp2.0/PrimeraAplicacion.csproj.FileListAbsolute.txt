@@ -1,0 +1,11 @@
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\netcoreapp2.0\PrimeraAplicacion.deps.json
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\netcoreapp2.0\PrimeraAplicacion.runtimeconfig.json
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\netcoreapp2.0\PrimeraAplicacion.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\netcoreapp2.0\PrimeraAplicacion.dll
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\netcoreapp2.0\PrimeraAplicacion.pdb
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.AssemblyInfo.cs
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.dll
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.pdb
+C:\Users\bryan\source\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\netcoreapp2.0\PrimeraAplicacion.csprojAssemblyReference.cache

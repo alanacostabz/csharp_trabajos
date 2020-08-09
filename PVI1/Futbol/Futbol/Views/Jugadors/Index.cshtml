@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Futbol.Models.Jugador>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Equipo.nombreEquipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nombreJugador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.edadJugador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.paisOrigen)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Equipo.nombreEquipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreJugador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.edadJugador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.paisOrigen)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.jugadorID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.jugadorID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.jugadorID })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

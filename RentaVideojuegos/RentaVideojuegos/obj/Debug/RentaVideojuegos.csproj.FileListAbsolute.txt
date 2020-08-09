@@ -1,0 +1,16 @@
+D:\PVI\RentaVideojuegos\RentaVideojuegos\bin\Debug\RentaVideojuegos.exe.config
+D:\PVI\RentaVideojuegos\RentaVideojuegos\bin\Debug\RentaVideojuegos.exe
+D:\PVI\RentaVideojuegos\RentaVideojuegos\bin\Debug\RentaVideojuegos.pdb
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.csprojResolveAssemblyReference.cache
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.Properties.Resources.resources
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.csproj.GenerateResource.Cache
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.exe
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.pdb
+D:\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.VentanaPrincipal.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.VentanaPrincipal.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.Properties.Resources.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.csproj.GenerateResource.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\RentaVideojuegos\RentaVideojuegos\obj\Debug\RentaVideojuegos.pdb

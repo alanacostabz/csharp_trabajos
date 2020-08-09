@@ -1,0 +1,10 @@
+Existen varios métodos para leer el archivo, incluido el método ReadToEnd que lee todo el archivo de una vez. Sin embargo, para este ejemplo, puede utilizar el método ReadLine para poner en la línea de un archivo a la vez. Cuando se alcanza el final del archivo, este método devuelve un valor nulo, lo que proporciona una forma de terminar el bucle. Mientras lee cada línea del archivo, puede utilizar el método Add de ArrayList para insertar las líneas en la clase ArrayList .
+while (sLine != null){
+sLine = objReader.ReadLine();
+if (sLine != null)
+arrText.Add(sLine);
+}
+objReader.Close();
+
+Utilice un bucle For Each para escribir el contenido de su recién completado ArrayList en la consola como sigue:
+foreach (string sOutput in arrText)Console.WriteLine(sOutput);

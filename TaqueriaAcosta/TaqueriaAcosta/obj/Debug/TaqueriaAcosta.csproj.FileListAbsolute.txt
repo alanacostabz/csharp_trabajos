@@ -1,0 +1,9 @@
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\bin\Debug\TaqueriaAcosta.exe.config
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\bin\Debug\TaqueriaAcosta.exe
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\bin\Debug\TaqueriaAcosta.pdb
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.csprojResolveAssemblyReference.cache
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.Properties.Resources.resources
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.VentanaPrincipal.resources
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.csproj.GenerateResource.Cache
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.exe
+D:\PVI\TaqueriaAcosta\TaqueriaAcosta\obj\Debug\TaqueriaAcosta.pdb

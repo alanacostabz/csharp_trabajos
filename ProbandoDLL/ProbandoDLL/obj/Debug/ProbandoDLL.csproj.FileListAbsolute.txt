@@ -1,0 +1,8 @@
+D:\PVI\ProbandoDLL\ProbandoDLL\bin\Debug\ProbandoDLL.exe.config
+D:\PVI\ProbandoDLL\ProbandoDLL\bin\Debug\ProbandoDLL.exe
+D:\PVI\ProbandoDLL\ProbandoDLL\bin\Debug\ProbandoDLL.pdb
+D:\PVI\ProbandoDLL\ProbandoDLL\bin\Debug\MiPrimerDLL.dll
+D:\PVI\ProbandoDLL\ProbandoDLL\bin\Debug\MiPrimerDLL.pdb
+D:\PVI\ProbandoDLL\ProbandoDLL\obj\Debug\ProbandoDLL.csprojResolveAssemblyReference.cache
+D:\PVI\ProbandoDLL\ProbandoDLL\obj\Debug\ProbandoDLL.exe
+D:\PVI\ProbandoDLL\ProbandoDLL\obj\Debug\ProbandoDLL.pdb

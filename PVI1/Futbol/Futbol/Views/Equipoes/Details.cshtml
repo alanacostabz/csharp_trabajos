@@ -1,0 +1,50 @@
+﻿@model Futbol.Models.Equipo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Equipo</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Liga.nombreLiga)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Liga.nombreLiga)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.nombreEquipo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.nombreEquipo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.nombreEstadio)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.nombreEstadio)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.equipoID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

@@ -1,0 +1,12 @@
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\bin\Debug\Clase_Sabado.exe.config
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\bin\Debug\Clase_Sabado.exe
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\bin\Debug\Clase_Sabado.pdb
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.csprojAssemblyReference.cache
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.VentanaPrincipal.resources
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.Properties.Resources.resources
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.csproj.GenerateResource.cache
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.csproj.CoreCompileInputs.cache
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.exe
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.pdb
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.AcercaDe.resources
+c:\users\bryan\source\repos\Clase_Sabado\Clase_Sabado\obj\Debug\Clase_Sabado.CatalogoArticulos.resources

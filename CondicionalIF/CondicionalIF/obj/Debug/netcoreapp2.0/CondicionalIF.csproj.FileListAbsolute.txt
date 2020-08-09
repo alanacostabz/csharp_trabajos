@@ -1,0 +1,10 @@
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\bin\Debug\netcoreapp2.0\CondicionalIF.deps.json
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\bin\Debug\netcoreapp2.0\CondicionalIF.runtimeconfig.json
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\bin\Debug\netcoreapp2.0\CondicionalIF.runtimeconfig.dev.json
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\bin\Debug\netcoreapp2.0\CondicionalIF.dll
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\bin\Debug\netcoreapp2.0\CondicionalIF.pdb
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\obj\Debug\netcoreapp2.0\CondicionalIF.csproj.CoreCompileInputs.cache
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\obj\Debug\netcoreapp2.0\CondicionalIF.AssemblyInfoInputs.cache
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\obj\Debug\netcoreapp2.0\CondicionalIF.AssemblyInfo.cs
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\obj\Debug\netcoreapp2.0\CondicionalIF.dll
+c:\users\bryan\source\repos\CondicionalIF\CondicionalIF\obj\Debug\netcoreapp2.0\CondicionalIF.pdb

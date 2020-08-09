@@ -1,0 +1,32 @@
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.exe.config
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.exe
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.pdb
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csprojAssemblyReference.cache
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.AcercaDe.resources
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.VentanaPrincipal.resources
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Properties.Resources.resources
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csproj.GenerateResource.cache
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.exe
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.pdb
+C:\Users\Alfredo\source\repos\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Articulos.resources
+D:\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.exe.config
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.exe
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.pdb
+D:\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.exe
+D:\ProyectoSabado\ProyectoSabado\bin\Debug\ProyectoSabado.pdb
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csprojResolveAssemblyReference.cache
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.AcercaDe.resources
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Articulos.resources
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.VentanaPrincipal.resources
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Properties.Resources.resources
+D:\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csproj.GenerateResource.Cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.AcercaDe.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Articulos.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.VentanaPrincipal.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.Properties.Resources.resources
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csproj.GenerateResource.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.exe
+C:\Users\bryan\Documents\Respaldo UNI ALAN\PVI\ProyectoSabado\ProyectoSabado\obj\Debug\ProyectoSabado.pdb

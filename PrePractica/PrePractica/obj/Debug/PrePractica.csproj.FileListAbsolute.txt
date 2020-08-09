@@ -1,0 +1,22 @@
+c:\users\luis wicochea\documents\visual studio 2015\Projects\PrePractica\PrePractica\bin\Debug\PrePractica.exe.config
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\bin\Debug\PrePractica.exe
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\bin\Debug\PrePractica.pdb
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.csprojResolveAssemblyReference.cache
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.Form1.resources
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.Properties.Resources.resources
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.csproj.GenerateResource.Cache
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.exe
+c:\Users\Luis Wicochea\Documents\Visual Studio 2015\Projects\PrePractica\PrePractica\obj\Debug\PrePractica.pdb
+E:\PVI\PrePractica\PrePractica\bin\Debug\PrePractica.exe.config
+E:\PVI\PrePractica\PrePractica\bin\Debug\PrePractica.exe
+E:\PVI\PrePractica\PrePractica\bin\Debug\PrePractica.pdb
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.csprojAssemblyReference.cache
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.Form1.resources
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.Properties.Resources.resources
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.csproj.GenerateResource.cache
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.csproj.CoreCompileInputs.cache
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.exe
+E:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.pdb
+D:\PVI\PrePractica\PrePractica\bin\Debug\PrePractica.exe.config
+D:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.exe
+D:\PVI\PrePractica\PrePractica\obj\Debug\PrePractica.pdb

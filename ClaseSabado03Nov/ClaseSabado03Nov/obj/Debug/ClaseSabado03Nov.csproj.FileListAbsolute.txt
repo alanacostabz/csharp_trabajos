@@ -1,0 +1,39 @@
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe.config
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.pdb
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csprojResolveAssemblyReference.cache
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.AcercaDe.resources
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.Properties.Resources.resources
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.VentanaPrincipal.resources
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csproj.GenerateResource.Cache
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.exe
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.pdb
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoArticulos.resources
+c:\users\maestros\documents\visual studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoMusica.resources
+C:\Users\Maestros\Documents\Visual Studio 2015\Projects\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.PuntoVenta.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe.config
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.exe
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.pdb
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.pdb
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csprojResolveAssemblyReference.cache
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.AcercaDe.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoArticulos.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoMusica.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.Properties.Resources.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.PuntoVenta.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.VentanaPrincipal.resources
+D:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csproj.GenerateResource.Cache
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe.config
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.exe
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\bin\Debug\ClaseSabado03Nov.pdb
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.AcercaDe.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoArticulos.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.CatalogoMusica.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.Properties.Resources.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.PuntoVenta.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.VentanaPrincipal.resources
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csproj.GenerateResource.cache
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.csproj.CoreCompileInputs.cache
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.exe
+E:\PVI\ClaseSabado03Nov\ClaseSabado03Nov\obj\Debug\ClaseSabado03Nov.pdb

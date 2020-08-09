@@ -1,0 +1,10 @@
+C:\Users\bryan\source\repos\messi\messi\bin\Debug\messi.exe.config
+C:\Users\bryan\source\repos\messi\messi\bin\Debug\messi.exe
+C:\Users\bryan\source\repos\messi\messi\bin\Debug\messi.pdb
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.Form1.resources
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.Properties.Resources.resources
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.exe
+C:\Users\bryan\source\repos\messi\messi\obj\Debug\messi.pdb
